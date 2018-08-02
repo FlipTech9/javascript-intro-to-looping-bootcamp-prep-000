@@ -21,6 +21,6 @@ function whileLoop(n){
 
 function doWhileLoop(array){
   do{
-    
-  }while (maybeTrue());
+    --array 
+  }while (array.length > 0 || maybeTrue());
 }
