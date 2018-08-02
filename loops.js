@@ -16,5 +16,5 @@ function whileLoop(number){
     console.log(--n)
   }
   
-  return strin
+  return string('done')
 }
